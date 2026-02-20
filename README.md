@@ -1,126 +1,180 @@
-# 👋 Hi, I'm Yoshikondo
+# 👋 Hi, I'm Yoshi Kondo
 
-> Building the future of AI-powered development tools and autonomous agent platforms
+> Full-stack developer building AI agents, chat platforms, and creative tools with 20+ original projects.
 
-I'm a full-stack developer passionate about creating intelligent tools that enhance developer productivity. I'm currently focused on the MCP (Model Context Protocol) ecosystem and building AI agents that can reason, plan, and execute complex tasks.
-
----
-
-## 🏆 Featured Projects
-
-### 🚀 MCP Ecosystem
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [vc-intelligence-mcp](https://github.com/yksanjo/vc-intelligence-mcp) | MCP-powered VC and investor intelligence platform with SEC EDGAR scraping | ⭐ |
-| [cli-manager-mcp](https://github.com/yksanjo/cli-manager-mcp) | AI-Powered Terminal Management for Claude Desktop | ⭐ |
-| [mcp-discovery](https://github.com/yksanjo/mcp-discovery) | Discover and integrate MCP servers | ⭐ |
-
-### 🛡️ Security & Recon
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [strix](https://github.com/yksanjo/strix) | Security Recon in 60 seconds - Autonomous Recon Agent Platform | [Live Demo](https://strix.recon) |
-| [autonomous-security-copilot](https://github.com/yksanjo/autonomous-security-copilot) | AI Red Team as a Service with Reinforcement Learning | - |
-
-### 💻 Developer Tools
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [deepseek-code](https://github.com/yksanjo/deepseek-code) | AI-powered code analysis and generation CLI | - |
-| [github-jira-sync](https://github.com/yksanjo/github-jira-sync) | Seamless GitHub-Jira integration | - |
-| [api-client-generator](https://github.com/yksanjo/api-client-generator) | AI-Powered API Client Generator from OpenAPI specs | - |
-
-### 🎵 Audio & Music AI
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [soundraw-game-bgm](https://github.com/yksanjo/soundraw-game-bgm) | AI-powered game BGM generator | [Live Demo](https://soundraw.game) |
-| [audio2strudel](https://github.com/yksanjo/audio2strudel) | Audio analysis and visualization tool | [Live Demo](https://audio2strudel.app) |
-
-### 📚 Educational Platforms
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [coding-tutor-v2](https://github.com/yksanjo/coding-tutor-v2) | Interactive Coding Tutor with personalized lessons | [Live Demo](https://coding-tutor.dev) |
-| [mini-build-web](https://github.com/yksanjo/mini-build-web) | Learn web development from scratch | [Live Demo](https://minibuild.dev/web) |
-| [mini-build-game](https://github.com/yksanjo/mini-build-game) | Learn game development from building engines | [Live Demo](https://minibuild.dev/game) |
-
-### 🔬 Quantum Computing
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [quantum-platform](https://github.com/yksanjo/quantum-platform) | Enterprise quantum computing platform with Blueqat SDK | - |
-| [quantum-circuit-composer](https://github.com/yksanjo/quantum-circuit-composer) | Interactive quantum circuit builder | [Live Demo](https://quantum.circuits.dev) |
-
-### 📦 Full-Stack Platforms
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| [apihub](https://github.com/yksanjo/apihub) | API Hub - Next.js 14 with tRPC, Prisma, Tailwind | - |
-| [devkb-knowledge-base](https://github.com/yksanjo/devkb-knowledge-base) | Personal/Team Knowledge Management System | [Live Demo](https://devkb.org) |
-| [strix-web](https://github.com/yksanjo/strix-web) | GUI for Security Recon | [Live Demo](https://strix.recon) |
+I specialize in rapid prototyping and MVP development across multiple domains: AI agents, recruitment platforms, educational tools, and creative applications. I focus on shipping working products quickly and iterating based on real feedback.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Featured Projects (Original Work)
 
-### Languages
+### 🤖 **AI Agent Platforms**
+| Project | Description | Tech | Commits |
+|---------|-------------|------|---------|
+| [**agentchat**](https://github.com/yksanjo/agentchat) | Real-time multi-agent chat platform (DEPLOYED) | Next.js, TypeScript, WebSocket | 13 |
+| [**multi-agent-plugins**](https://github.com/yksanjo/multi-agent-plugins) | Plugin system for AI agents | TypeScript, Node.js | 18 |
+| [**agent-gym**](https://github.com/yksanjo/agent-gym) | Training environment for AI agents | Python, JavaScript | 12 |
+| [**agent-highway**](https://github.com/yksanjo/agent-highway) | Agent infrastructure platform | TypeScript, Node.js | 10 |
+| [**cli-manager-mcp**](https://github.com/yksanjo/cli-manager-mcp) | CLI management for AI agents | TypeScript, MCP | 9 |
+
+### 💼 **Business & Recruitment Tools**
+| Project | Description | Tech | Commits |
+|---------|-------------|------|---------|
+| [**signal-based-recruitment**](https://github.com/yksanjo/signal-based-recruitment) | Recruitment sourcing platform | Next.js, TypeScript, PostgreSQL | 22 |
+| [**linkedin-face-crm**](https://github.com/yksanjo/linkedin-face-crm) | Face recognition CRM for LinkedIn | Python, TypeScript | 11 |
+| [**complianceos-mvp**](https://github.com/yksanjo/complianceos-mvp) | Compliance management system | TypeScript, Next.js | 26 |
+| [**vc-intelligence-mcp**](https://github.com/yksanjo/vc-intelligence-mcp) | VC intelligence platform | TypeScript, MCP | 8 |
+| [**signalfox**](https://github.com/yksanjo/signalfox) | Signal-based tools platform | Python, JavaScript | 10 |
+
+### 🎓 **Educational Platforms**
+| Project | Description | Tech | Commits |
+|---------|-------------|------|---------|
+| [**coding-tutor-v2**](https://github.com/yksanjo/coding-tutor-v2) | Interactive coding tutor | TypeScript, Next.js | 18 |
+| [**coding-tutor**](https://github.com/yksanjo/coding-tutor) | Original coding tutor platform | JavaScript, Node.js | 15 |
+| [**deepseek-code-server**](https://github.com/yksanjo/deepseek-code-server) | Code analysis server | TypeScript, Node.js | 13 |
+| [**contextual-workspace**](https://github.com/yksanjo/contextual-workspace) | Context-aware development workspace | TypeScript, React | 10 |
+
+### 🎵 **Creative & Music Tools**
+| Project | Description | Tech | Commits |
+|---------|-------------|------|---------|
+| [**beat-sensei**](https://github.com/yksanjo/beat-sensei) | Music education with AI | Python, JavaScript | 15 |
+| [**Strudel-music-pattern-memory-bank**](https://github.com/yksanjo/Strudel-music-pattern-memory-bank) | Music pattern library | JavaScript | 15 |
+| [**snow-globe-app**](https://github.com/yksanjo/snow-globe-app) | Interactive winter app | JavaScript, HTML/CSS | 14 |
+
+### 🔧 **Developer Tools**
+| Project | Description | Tech | Commits |
+|---------|-------------|------|---------|
+| [**github-repo-agent**](https://github.com/yksanjo/github-repo-agent) | GitHub automation agent | TypeScript, Node.js | 11 |
+| [**moltworker**](https://github.com/yksanjo/moltworker) | Cloudflare agent runtime | TypeScript, Cloudflare | 23 |
+| [**next-100-days**](https://github.com/yksanjo/next-100-days) | Progress tracking system | JavaScript, Node.js | 8 |
+
+---
+
+## 🚀 **Live Deployments**
+
+### 🌐 **Currently Deployed**
+- **agentchat** - [Live Demo](https://agentchat-ld621c8xl-yoshi-kondos-projects.vercel.app)
+  - Real-time multi-agent chat platform
+  - WebSocket-based communication
+  - Vercel deployment
+
+### 🔧 **Ready for Deployment**
+All projects include:
+- Production-ready configurations
+- Vercel/Cloudflare deployment scripts
+- Environment variable setup
+- Database migrations (where applicable)
+
+---
+
+## 🛠️ **Technical Expertise**
+
+### **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logoColor=white)
 
-### AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6B6B?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
+### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### DevOps & Cloud
+### **DevOps & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-FF6B6B?style=flat&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **Development Philosophy**
+
+### **Rapid Prototyping**
+- Focus on MVP development
+- Quick iteration based on feedback
+- Shipping working products in days, not months
+
+### **Full-Stack Ownership**
+- End-to-end development: frontend, backend, database, deployment
+- Infrastructure as code
+- Automated testing and deployment
+
+### **Practical AI Integration**
+- AI as a tool, not a solution
+- Focus on practical applications
+- Human-in-the-loop systems
+
+---
+
+## 📈 **GitHub Activity**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yksanjo&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yksanjo&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yksanjo&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yksanjo&layout=compact&theme=dark&hide_border=true&hide_title=true)
 
 </div>
 
----
-
-## 🤝 Connect With Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yksanjo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yksanjo)
-[![Website](https://img.shields.io/badge/Website-14a1f0?style=flat&logoColor=white)](https://yksanjo.dev)
+**Key Metrics:**
+- **20+ original projects** with real commits
+- **Focus on quality over quantity** (recently cleaned up from 500+ to focused portfolio)
+- **All projects are original work** (no forks claimed as own)
+- **Active development** across multiple domains
 
 ---
 
-## 📫 Quick Stats
+## 📫 **Connect With Me**
 
-- 🔭 Currently working on **MCP ecosystem** and **autonomous agents**
-- 🌱 Learning more about **quantum computing** and **RL**
-- 💬 Ask me about **Next.js**, **TypeScript**, **AI agents**, **MCP**
-- ⚡ Fun fact: I built 100+ projects to explore different domains
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yksanjo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yksanjo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoshi@musicailab.com)
+
+---
+
+## 🎯 **What I'm Looking For**
+
+### **Collaboration Opportunities**
+- AI agent development projects
+- Educational technology platforms
+- Creative tools and applications
+- Rapid prototyping partnerships
+
+### **Current Focus**
+1. **Polishing existing projects** - Improving documentation and deployment
+2. **User acquisition** - Getting real users for deployed projects
+3. **Monetization experiments** - Testing different business models
+4. **Technical writing** - Documenting development processes
+
+---
+
+## 📝 **Recent Cleanup & Focus**
+
+I recently completed a major GitHub organization cleanup:
+- **Before:** 500+ repositories (mixed quality, many templates/forks)
+- **After:** 20+ focused, original projects
+- **Result:** Clear portfolio showing actual development work
+
+This cleanup reflects my commitment to:
+- **Quality over quantity**
+- **Original work only**
+- **Proper documentation**
+- **Honest representation of skills**
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yksanjo&style=flat&color=green&label=Profile+Views)
+**"Building the future, one prototype at a time."**
+
+⭐ **Star my projects if you find them interesting or useful!**
 
 </div>
