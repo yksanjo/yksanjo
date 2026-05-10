@@ -23,9 +23,9 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 | Area | Focus |
 |------|-------|
+| **☀️ Solana + AI** | Most comprehensive MCP server for Solana — balances, tokens, swaps, wallet analysis |
 | **🤖 AI Coding Assistants** | Open-source CLI alternatives to Claude Code (1/100th the cost) |
 | **🔌 MCP Ecosystem** | Discovery, orchestration, and security for the Model Context Protocol |
-| **⛓️ WAX Blockchain** | First MCP server for WAX — AI agents that interact with the WAX ecosystem |
 | **🛡️ AI Security** | Zero-trust access, prompt protection, agent WAF, threat hunting |
 | **🎵 Music + AI** | Audio processing, generative music, creative coding tools |
 
@@ -33,27 +33,21 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 ## ⭐ Featured Projects
 
-### 🌐 WAX Blockchain + AI Stack
+### ☀️ Solana + AI Stack
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <h3>☀️ <a href="https://github.com/yksanjo/sol-mcp-server">sol-mcp-server</a></h3>
+      <p><strong>🆕 · 🐍 Python</strong></p>
+      <p><strong>The most comprehensive MCP server for Solana.</strong> Balances, tokens, prices, swaps, wallet analysis, and DeFi data — all through natural language.</p>
+      <p><code>uvx sol-mcp-server</code></p>
+    </td>
+    <td width="50%" align="center">
       <h3>🌐 <a href="https://github.com/yksanjo/wax-mcp-server">wax-mcp-server</a></h3>
       <p><strong>🆕 · 🐍 Python</strong></p>
-      <p><strong>First MCP server for WAX.</strong> Let AI agents query balances, NFTs, prices, and transactions through natural language.</p>
+      <p>First MCP server for the WAX blockchain. AI agents that interact with the WAX ecosystem.</p>
       <p><code>uvx wax-mcp-server</code></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🧰 <a href="https://github.com/yksanjo/wax-agent-toolkit">wax-agent-toolkit</a></h3>
-      <p><strong>🆕 · 🐍 Python</strong></p>
-      <p>Python SDK for building AI agents on WAX — NFT ops, portfolio tracking, DEX integration, whale monitoring.</p>
-      <p><code>pip install wax-agent-toolkit</code></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔭 <a href="https://github.com/yksanjo/wax-nft-sniper">wax-nft-sniper</a></h3>
-      <p><strong>🆕 · 🐍 Python</strong></p>
-      <p>Real-time NFT sniper and whale monitor. Track mints, floor prices, and big sales with Telegram alerts.</p>
-      <p><code>pip install wax-nft-sniper</code></p>
     </td>
   </tr>
 </table>
@@ -128,7 +122,7 @@ Go         █░░░░░░░░░░░░░░░░░░░░░░
 
 ## 📈 What I'm Building Now
 
-- **🌐 WAX Blockchain + AI** — Full stack: MCP server, Python SDK, NFT sniper. AI agents that interact with the WAX ecosystem
+- **☀️ Solana + AI** — Most comprehensive MCP server for Solana. AI agents that interact with the Solana ecosystem (DeFi, NFTs, tokens)
 - **🔌 MCP ecosystem tooling** — discovery, orchestration, security scanning
 - **🛡️ AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
 - **🎵 Music AI** — audio-to-Strudel conversion, generative music pipelines
