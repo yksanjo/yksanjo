@@ -1,12 +1,76 @@
 <div align="center">
 
-# 👋 Hello, I'm a Developer & Builder
+# 👋 Yoshi Kondo
 
-I create **AI-powered tools**, **enterprise integrations**, and **developer productivity solutions**.
+**Building production-grade AI tools — solo, with AI, at startup speed.**
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]() [![HTML](https://img.shields.io/badge/-HTML-666666?style=flat-square&logo=html&logoColor=white)]() [![Dockerfile](https://img.shields.io/badge/-Dockerfile-666666?style=flat-square&logo=dockerfile&logoColor=white)]() [![Swift](https://img.shields.io/badge/-Swift-666666?style=flat-square&logo=swift&logoColor=white)]() [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)]() 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![DeepSeek](https://img.shields.io/badge/Powered%20by-DeepSeek-00D4AA?style=for-the-badge&logo=openai&logoColor=white)](https://deepseek.com)
+
+[![Twitter](https://img.shields.io/badge/-@yksanjo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yksanjo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoshikondo)
+[![Email](https://img.shields.io/badge/-yoshi@musicailab.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yoshi@musicailab.com)
 
 </div>
+
+---
+
+## 🧠 What I Do
+
+I build **AI developer tools, MCP infrastructure, and security frameworks** — cutting deployment from months to days by engineering with AI, not just prompting it.
+
+| Area | Focus |
+|------|-------|
+| **🤖 AI Coding Assistants** | Open-source CLI alternatives to Claude Code (1/100th the cost) |
+| **🔌 MCP Ecosystem** | Discovery, orchestration, and security for the Model Context Protocol |
+| **🛡️ AI Security** | Zero-trust access, prompt protection, agent WAF, threat hunting |
+| **🎵 Music + AI** | Audio processing, generative music, creative coding tools |
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🐟 <a href="https://github.com/yksanjo/deepseek-code">deepseek-code</a></h3>
+      <p><strong>⭐ 18 · 🐍 Python</strong></p>
+      <p>Open-source AI coding assistant CLI powered by DeepSeek-V4. Your own Claude Code alternative at <strong>1/100th the cost</strong>.</p>
+      <p><code>pip install deepseek-code</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧠 <a href="https://github.com/yksanjo/clawdbot-deepseek">clawdbot-deepseek</a></h3>
+      <p><strong>⭐ 8 · 🐍 Python</strong></p>
+      <p>Open-source alternative to $20/mo memory apps. Personal AI with persistent memory. Self-hosted, 50x cheaper than GPT-4.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔍 <a href="https://github.com/yksanjo/mcp-discovery">mcp-discovery</a></h3>
+      <p><strong>⭐ 6 · 📘 TypeScript</strong></p>
+      <p>World's largest MCP Server Index — <strong>14,000+ servers</strong>. Semantic search API + real-time discovery.</p>
+      <p><a href="https://mcp-discovery-two.vercel.app">Live Demo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🔐 <a href="https://github.com/yksanjo/zero-trust-ai-access">zero-trust-ai-access</a></h3>
+      <p><strong>⭐ 3 · 🐍 Python</strong></p>
+      <p>Zero-Trust AI Access Layer — context-aware authentication for AI agents.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔄 <a href="https://github.com/yksanjo/mcp-orchestration-hub">mcp-orchestration-hub</a></h3>
+      <p><strong>⭐ 3 · 📘 TypeScript</strong></p>
+      <p>Visual workflow builder for chaining MCP servers. Built with Next.js, ReactFlow, and Supabase.</p>
+      <p><a href="https://mcp-orchestration-hub.vercel.app">Live Demo →</a></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛡️ <a href="https://github.com/yksanjo/agentguard">agentguard</a></h3>
+      <p><strong>⭐ 1 · 🐍 Python</strong></p>
+      <p>Security framework for AI agents and autonomous systems.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,7 +78,7 @@ I create **AI-powered tools**, **enterprise integrations**, and **developer prod
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yksanjo&show_icons=true&theme=dark&hide_border=true)](https://github.com/yksanjo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yksanjo&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/yksanjo)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yksanjo&layout=compact&theme=dark&hide_border=true)](https://github.com/yksanjo)
 
@@ -22,78 +86,40 @@ I create **AI-powered tools**, **enterprise integrations**, and **developer prod
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚀 [github-jira-sync](https://github.com/yksanjo/github-jira-sync)
-⭐   Production-ready two-way sync between GitHub issues/PRs and Jira tasks. Smart mapping, webhook-based, queue architecture, conflict resolution.
-
-### ⚡ [0](https://github.com/yksanjo/0)
-⭐ Generate unique art and music from quantum measurements
-
-### 🚀 [agent-finance](https://github.com/yksanjo/agent-finance)
-⭐ AgentFinance - AI-Native Finance Platform with transaction-based pricing
-
-### 🚀 [agent-hr](https://github.com/yksanjo/agent-hr)
-⭐ AgentHR - AI-Native HCM Platform with transaction-based pricing
-
-### 🚀 [agentguard](https://github.com/yksanjo/agentguard)
-⭐ 🛡️ Security framework for AI agents and autonomous systems
-
-### ⚡ [ai-agent-waf](https://github.com/yksanjo/ai-agent-waf)
-⭐ AI Agent WAF - Real-time input validation and protection for AI agents
-
+```
+Python ████████████████████████████████░  58%  (AI, CLI, security tools)
+TypeScript ██████████████████░░░░░░░░░░░  31%  (MCP, web apps, APIs)
+JavaScript ███░░░░░░░░░░░░░░░░░░░░░░░░░░   5%  (extensions, tooling)
+Shell      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%  (devops, automation)
+Go         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%  (performance tools)
+```
 
 ---
 
-## 💼 What I Build
+## 📈 What I'm Building Now
 
-- **📦 Proof of Concepts/Experiments**: 47 projects
-- **⚡ Developer Productivity**: 60 projects
-- **🛡️ Security Solutions**: 6 projects
-- **📚 Libraries/Frameworks**: 6 projects
-- **🏢 Enterprise Tools**: 3 projects
-
-
----
-
-## 🔧 Technologies & Tools
-
-### Languages
-- Python
-- JavaScript
-- TypeScript
-- Go
-
-
----
-
-## 📈 Portfolio Overview
-
-| Metric | Count |
-|--------|-------|
-| **Total Projects** | 155 |
-| **Showcase Projects** | 48 |
-| **Total Stars** | 48 |
-| **Active Categories** | 10 |
+- **MCP ecosystem tooling** — discovery, orchestration, security scanning
+- **AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
+- **Developer productivity** — CI that understands code, postmortem automation, code review intelligence
+- **Music AI** — audio-to-Strudel conversion, generative music pipelines
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yoshikondo)
+- 🐦 [Twitter/X](https://twitter.com/yksanjo)
+- 📧 [yoshi@musicailab.com](mailto:yoshi@musicailab.com)
+- 🌐 [Music Ai Lab](https://musicailab.com)
 
 ---
 
 <div align="center">
 
-*💡 Open to collaborations on AI, security, and developer tools projects*
+*Building in public. Shipping daily. ⚡*
 
-**⭐ Star my repos if you find them useful!**
+**⭐ Star what you find useful — it keeps me shipping!**
 
 </div>
-
----
-
-*Generated: February 2026*
