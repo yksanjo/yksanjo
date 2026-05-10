@@ -23,7 +23,7 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 | Area | Focus |
 |------|-------|
-| **☀️ Solana + AI** | Most comprehensive MCP server for Solana — balances, tokens, swaps, wallet analysis |
+| **☀️ Solana + AI** | First write-capable Solana AI agent + most comprehensive MCP server — balances, tokens, swaps, wallet analysis, and transaction execution |
 | **🤖 AI Coding Assistants** | Open-source CLI alternatives to Claude Code (1/100th the cost) |
 | **🔌 MCP Ecosystem** | Discovery, orchestration, and security for the Model Context Protocol |
 | **🛡️ AI Security** | Zero-trust access, prompt protection, agent WAF, threat hunting |
@@ -37,13 +37,19 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <h3>🔑 <a href="https://github.com/yksanjo/sol-agent-wallet">sol-agent-wallet</a></h3>
+      <p><strong>🆕 · 🐍 Python</strong></p>
+      <p><strong>The first write-capable Solana AI agent.</strong> Swap tokens, send SOL, and manage your wallet through natural language. Not just read-only — actually execute transactions.</p>
+      <p><code>uvx sol-agent-wallet</code></p>
+    </td>
+    <td width="33%" align="center">
       <h3>☀️ <a href="https://github.com/yksanjo/sol-mcp-server">sol-mcp-server</a></h3>
       <p><strong>🆕 · 🐍 Python</strong></p>
       <p><strong>The most comprehensive MCP server for Solana.</strong> Balances, tokens, prices, swaps, wallet analysis, and DeFi data — all through natural language.</p>
       <p><code>uvx sol-mcp-server</code></p>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>🌐 <a href="https://github.com/yksanjo/wax-mcp-server">wax-mcp-server</a></h3>
       <p><strong>🆕 · 🐍 Python</strong></p>
       <p>First MCP server for the WAX blockchain. AI agents that interact with the WAX ecosystem.</p>
@@ -122,7 +128,7 @@ Go         █░░░░░░░░░░░░░░░░░░░░░░
 
 ## 📈 What I'm Building Now
 
-- **☀️ Solana + AI** — Most comprehensive MCP server for Solana. AI agents that interact with the Solana ecosystem (DeFi, NFTs, tokens)
+- **☀️ Solana + AI** — First write-capable Solana AI agent + most comprehensive MCP server. AI agents that can actually execute transactions on Solana
 - **🔌 MCP ecosystem tooling** — discovery, orchestration, security scanning
 - **🛡️ AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
 - **🎵 Music AI** — audio-to-Strudel conversion, generative music pipelines
