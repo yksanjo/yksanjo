@@ -25,6 +25,7 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 |------|-------|
 | **🤖 AI Coding Assistants** | Open-source CLI alternatives to Claude Code (1/100th the cost) |
 | **🔌 MCP Ecosystem** | Discovery, orchestration, and security for the Model Context Protocol |
+| **⛓️ WAX Blockchain** | First MCP server for WAX — AI agents that interact with the WAX ecosystem |
 | **🛡️ AI Security** | Zero-trust access, prompt protection, agent WAF, threat hunting |
 | **🎵 Music + AI** | Audio processing, generative music, creative coding tools |
 
@@ -34,6 +35,12 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 <table>
   <tr>
+    <td width="33%" align="center">
+      <h3>🌐 <a href="https://github.com/yksanjo/wax-mcp-server">wax-mcp-server</a></h3>
+      <p><strong>🆕 · 🐍 Python</strong></p>
+      <p><strong>First MCP server for the WAX blockchain.</strong> Let AI agents query balances, NFTs, prices, and transactions through natural language.</p>
+      <p><code>uvx wax-mcp-server</code></p>
+    </td>
     <td width="33%" align="center">
       <h3>🐟 <a href="https://github.com/yksanjo/deepseek-code">deepseek-code</a></h3>
       <p><strong>⭐ 18 · 🐍 Python</strong></p>
@@ -45,14 +52,14 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
       <p><strong>⭐ 8 · 🐍 Python</strong></p>
       <p>Open-source alternative to $20/mo memory apps. Personal AI with persistent memory. Self-hosted, 50x cheaper than GPT-4.</p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <h3>🔍 <a href="https://github.com/yksanjo/mcp-discovery">mcp-discovery</a></h3>
       <p><strong>⭐ 6 · 📘 TypeScript</strong></p>
       <p>World's largest MCP Server Index — <strong>14,000+ servers</strong>. Semantic search API + real-time discovery.</p>
       <p><a href="https://mcp-discovery-two.vercel.app">Live Demo →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center">
       <h3>🔐 <a href="https://github.com/yksanjo/zero-trust-ai-access">zero-trust-ai-access</a></h3>
       <p><strong>⭐ 3 · 🐍 Python</strong></p>
@@ -63,11 +70,6 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
       <p><strong>⭐ 3 · 📘 TypeScript</strong></p>
       <p>Visual workflow builder for chaining MCP servers. Built with Next.js, ReactFlow, and Supabase.</p>
       <p><a href="https://mcp-orchestration-hub.vercel.app">Live Demo →</a></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🛡️ <a href="https://github.com/yksanjo/agentguard">agentguard</a></h3>
-      <p><strong>⭐ 1 · 🐍 Python</strong></p>
-      <p>Security framework for AI agents and autonomous systems.</p>
     </td>
   </tr>
 </table>
@@ -100,10 +102,10 @@ Go         █░░░░░░░░░░░░░░░░░░░░░░
 
 ## 📈 What I'm Building Now
 
-- **MCP ecosystem tooling** — discovery, orchestration, security scanning
-- **AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
-- **Developer productivity** — CI that understands code, postmortem automation, code review intelligence
-- **Music AI** — audio-to-Strudel conversion, generative music pipelines
+- **🌐 WAX Blockchain + AI** — First MCP server for WAX. AI agents that interact with the WAX ecosystem (NFTs, DeFi, gaming)
+- **🔌 MCP ecosystem tooling** — discovery, orchestration, security scanning
+- **🛡️ AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
+- **🎵 Music AI** — audio-to-Strudel conversion, generative music pipelines
 
 ---
 
