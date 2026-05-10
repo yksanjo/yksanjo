@@ -33,14 +33,35 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
 
 ## ⭐ Featured Projects
 
+### 🌐 WAX Blockchain + AI Stack
+
 <table>
   <tr>
     <td width="33%" align="center">
       <h3>🌐 <a href="https://github.com/yksanjo/wax-mcp-server">wax-mcp-server</a></h3>
       <p><strong>🆕 · 🐍 Python</strong></p>
-      <p><strong>First MCP server for the WAX blockchain.</strong> Let AI agents query balances, NFTs, prices, and transactions through natural language.</p>
+      <p><strong>First MCP server for WAX.</strong> Let AI agents query balances, NFTs, prices, and transactions through natural language.</p>
       <p><code>uvx wax-mcp-server</code></p>
     </td>
+    <td width="33%" align="center">
+      <h3>🧰 <a href="https://github.com/yksanjo/wax-agent-toolkit">wax-agent-toolkit</a></h3>
+      <p><strong>🆕 · 🐍 Python</strong></p>
+      <p>Python SDK for building AI agents on WAX — NFT ops, portfolio tracking, DEX integration, whale monitoring.</p>
+      <p><code>pip install wax-agent-toolkit</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔭 <a href="https://github.com/yksanjo/wax-nft-sniper">wax-nft-sniper</a></h3>
+      <p><strong>🆕 · 🐍 Python</strong></p>
+      <p>Real-time NFT sniper and whale monitor. Track mints, floor prices, and big sales with Telegram alerts.</p>
+      <p><code>pip install wax-nft-sniper</code></p>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Other Projects
+
+<table>
+  <tr>
     <td width="33%" align="center">
       <h3>🐟 <a href="https://github.com/yksanjo/deepseek-code">deepseek-code</a></h3>
       <p><strong>⭐ 18 · 🐍 Python</strong></p>
@@ -52,14 +73,14 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
       <p><strong>⭐ 8 · 🐍 Python</strong></p>
       <p>Open-source alternative to $20/mo memory apps. Personal AI with persistent memory. Self-hosted, 50x cheaper than GPT-4.</p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center">
       <h3>🔍 <a href="https://github.com/yksanjo/mcp-discovery">mcp-discovery</a></h3>
       <p><strong>⭐ 6 · 📘 TypeScript</strong></p>
       <p>World's largest MCP Server Index — <strong>14,000+ servers</strong>. Semantic search API + real-time discovery.</p>
       <p><a href="https://mcp-discovery-two.vercel.app">Live Demo →</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <h3>🔐 <a href="https://github.com/yksanjo/zero-trust-ai-access">zero-trust-ai-access</a></h3>
       <p><strong>⭐ 3 · 🐍 Python</strong></p>
@@ -70,6 +91,11 @@ I build **AI developer tools, MCP infrastructure, and security frameworks** — 
       <p><strong>⭐ 3 · 📘 TypeScript</strong></p>
       <p>Visual workflow builder for chaining MCP servers. Built with Next.js, ReactFlow, and Supabase.</p>
       <p><a href="https://mcp-orchestration-hub.vercel.app">Live Demo →</a></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛡️ <a href="https://github.com/yksanjo/agentguard">agentguard</a></h3>
+      <p><strong>⭐ 1 · 🐍 Python</strong></p>
+      <p>Security framework for AI agents and autonomous systems.</p>
     </td>
   </tr>
 </table>
@@ -102,7 +128,7 @@ Go         █░░░░░░░░░░░░░░░░░░░░░░
 
 ## 📈 What I'm Building Now
 
-- **🌐 WAX Blockchain + AI** — First MCP server for WAX. AI agents that interact with the WAX ecosystem (NFTs, DeFi, gaming)
+- **🌐 WAX Blockchain + AI** — Full stack: MCP server, Python SDK, NFT sniper. AI agents that interact with the WAX ecosystem
 - **🔌 MCP ecosystem tooling** — discovery, orchestration, security scanning
 - **🛡️ AI agent security** — zero-trust access, prompt injection defense, autonomous threat hunting
 - **🎵 Music AI** — audio-to-Strudel conversion, generative music pipelines
