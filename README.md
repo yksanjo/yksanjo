@@ -22,7 +22,7 @@
 I build **AI developer tools, MCP infrastructure, and Solana agents** — engineering with AI to ship fast.
 
 | Area | Focus |
-|------|-------|
+| ---- | ----- |
 | **☀️ Solana + AI** | Write-capable Solana agents + MCP servers — balances, tokens, swaps, wallet analysis, transaction execution |
 | **🤖 AI Coding Assistants** | Open-source CLI alternatives to proprietary coding agents, on low-cost models |
 | **🔌 MCP Ecosystem** | Discovery, orchestration, and project memory for the Model Context Protocol |
@@ -116,7 +116,7 @@ I build **AI developer tools, MCP infrastructure, and Solana agents** — engine
 
 ## 🛠️ Tech Stack
 
-```
+```text
 Python     ████████████████████████████████░  58%  (AI, CLI, agents)
 TypeScript ██████████████████░░░░░░░░░░░░░░░  31%  (MCP, web apps, APIs)
 JavaScript ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%  (extensions, tooling)

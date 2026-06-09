@@ -1,0 +1,13 @@
+{
+  // Lint config for a GitHub profile README.
+  "config": {
+    // Inline HTML is required for the centered header and project-card tables.
+    "MD033": false,
+    // Badge/image URLs and table rows cannot be wrapped.
+    "MD013": false,
+    // First line is a centered <div>, not a heading.
+    "MD041": false,
+    // The closing italic tagline is intentional, not a heading.
+    "MD036": false
+  }
+}
