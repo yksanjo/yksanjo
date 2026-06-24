@@ -33,13 +33,13 @@ I build **AI developer tools, MCP infrastructure, and Solana agents** — engine
 
 ## ⭐ Featured Projects
 
-### ☀️ Solana + AI
+### ☀️ AI Agent Stack
 
 <table>
   <tr>
     <td width="33%" align="center">
       <h3>🔑 <a href="https://github.com/yksanjo/sol-agent-wallet">sol-agent-wallet</a></h3>
-      <p><strong>⭐ 5 · 🐍 Python</strong></p>
+      <p><strong>⭐ 6 · 🐍 Python</strong></p>
       <p><strong>Write-capable Solana MCP agent.</strong> Swap tokens, send SOL, and manage a wallet through natural language — with hard-capped spend authorization, not just read-only.</p>
       <p><code>uvx sol-agent-wallet</code></p>
     </td>
@@ -50,10 +50,10 @@ I build **AI developer tools, MCP infrastructure, and Solana agents** — engine
       <p><code>npx gmem</code></p>
     </td>
     <td width="33%" align="center">
-      <h3>☀️ <a href="https://github.com/yksanjo/sol-mcp-server">sol-mcp-server</a></h3>
-      <p><strong>🐍 Python · MCP</strong></p>
-      <p>A broad MCP server for Solana — balances, tokens, prices, swaps, wallet analysis, and DeFi data through natural language.</p>
-      <p><code>uvx sol-mcp-server</code></p>
+      <h3>🔍 <a href="https://github.com/yksanjo/mcp-discovery">mcp-discovery</a></h3>
+      <p><strong>⭐ 7 · 📘 TypeScript</strong></p>
+      <p>MCP server discovery over a bundled 17k-server index. Works offline with zero API keys; hosted mode adds semantic search and live metrics.</p>
+      <p><a href="https://mcp-discovery-two.vercel.app">Live Demo →</a></p>
     </td>
   </tr>
 </table>
@@ -64,28 +64,28 @@ I build **AI developer tools, MCP infrastructure, and Solana agents** — engine
   <tr>
     <td width="33%" align="center">
       <h3>🐟 <a href="https://github.com/yksanjo/deepseek-code">deepseek-code</a></h3>
-      <p><strong>⭐ 18 · 🐍 Python</strong></p>
+      <p><strong>⭐ 19 · 🐍 Python</strong></p>
       <p>Open-source AI coding assistant CLI powered by DeepSeek — a low-cost alternative to proprietary coding agents, with a real tool/agent loop.</p>
       <p><code>pip install deepseek-code</code></p>
     </td>
     <td width="33%" align="center">
-      <h3>🔍 <a href="https://github.com/yksanjo/mcp-discovery">mcp-discovery</a></h3>
-      <p><strong>⭐ 7 · 📘 TypeScript</strong></p>
-      <p>An MCP server index with semantic search and a discovery API over thousands of servers.</p>
-      <p><a href="https://mcp-discovery-two.vercel.app">Live Demo →</a></p>
+      <h3>🎼 <a href="https://github.com/yksanjo/conductor">conductor</a></h3>
+      <p><strong>⭐ 2 · 🟨 JavaScript</strong></p>
+      <p>See what every live Claude Code window is doing and reply to them. Read-only situational awareness plus tmux control as a CLI, web cockpit, and MCP server.</p>
+      <p><code>npx conductor</code></p>
     </td>
     <td width="33%" align="center">
-      <h3>🛒 <a href="https://github.com/yksanjo/mercari-agent">mercari-agent</a></h3>
-      <p><strong>📘 TypeScript</strong></p>
-      <p>Scoped-budget shopping agent for Mercari JP — Playwright + Claude vision scoring + hard-capped spend authorization.</p>
+      <h3>🔐 <a href="https://github.com/yksanjo/secure-init">secure-init</a></h3>
+      <p><strong>🟨 JavaScript · Security</strong></p>
+      <p>Secret-management setup that never sees your keys — 0 deps, no network, no telemetry. Routes secrets through a vault you control (<code>op://</code>).</p>
+      <p><code>npx secure-init</code></p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>🔐 <a href="https://github.com/yksanjo/secure-init">secure-init</a></h3>
-      <p><strong>🟨 JavaScript</strong></p>
-      <p>Secret-management setup that never sees your keys — 0 deps, no network, no telemetry. Routes secrets through a vault you control (<code>op://</code>).</p>
-      <p><code>npx secure-init</code></p>
+      <h3>🛒 <a href="https://github.com/yksanjo/mercari-agent">mercari-agent</a></h3>
+      <p><strong>📘 TypeScript</strong></p>
+      <p>Scoped-budget shopping agent for Mercari JP — Playwright + Claude vision scoring + hard-capped spend authorization.</p>
     </td>
     <td width="33%" align="center">
       <h3>🐙 <a href="https://github.com/yksanjo/mother-promptor">mother-promptor</a></h3>
